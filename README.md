@@ -15,5 +15,10 @@ Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-datase
 ![Screenshot 2025-01-15 064509](https://github.com/user-attachments/assets/06602d3a-ecdd-4cc8-a1f7-d10494092fd5)
 
 # Teacher Vs Student Result: Before and After KD:
+## Confusion Matrices
+
 ![Screenshot 2025-01-15 064134](https://github.com/user-attachments/assets/c08e94f0-7595-4d90-a029-8d928658d016)
 ![Screenshot 2025-01-15 064149](https://github.com/user-attachments/assets/aedaf21a-8c4f-49fe-b414-074a0770ac86)
+
+## Classification Report
+![Screenshot 2025-01-15 064046](https://github.com/user-attachments/assets/32ed4ec0-a378-4a51-8010-4b63a1002a21)
